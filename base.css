@@ -86,7 +86,7 @@ body{
     min-height: 100vh;
     font-size: 100%;
     font-family: var(--main-font);
-    background-color: var(--primary-color);
+    background-color: var(--secondary-color);
     line-height: 1.4em;
     font-smooth: always;
     -webkit-font-smoothing: antialiased;
