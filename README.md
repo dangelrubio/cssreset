@@ -6,4 +6,4 @@ Esta base está construida en combinación con los estandares normalize y apoyad
 
 Para importar la hoja, simplemente copiar el meta link:
 
-\<link rel="stylesheet" href="https://github.com/dangelrubio/cssreset/blob/main/base.css"\>
+\<link rel="stylesheet" href=\"https://github.com/dangelrubio/cssreset/blob/main/base.css\"\>
