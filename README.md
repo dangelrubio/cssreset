@@ -5,5 +5,6 @@ Esta base está construida en combinación con los estandares normalize y apoyad
 ## Importar la hoja de estilos: 
 
 Para importar la hoja, simplemente copiar el meta link:
-
-\<link rel="stylesheet" href=\"https://github.com/dangelrubio/cssreset/blob/main/base.css">
+```html
+<link rel="stylesheet" href="https://github.com/dangelrubio/cssreset/blob/main/base.css">
+```
